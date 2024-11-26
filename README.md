@@ -54,7 +54,7 @@ Todas as informações estão relacionadas a partir de 1º de fevereiro de 2020,
 
 Realizamos todo o processo passo a passo para treinar o modelo. Todos os inconvenientes encontrados foram facilmente resolvidos durante a Análise Exploratória de Dados (EDA), como a conversão de colunas, criação da coluna alvo "churn" como variável binária, e a realização de encoding e escalonamento antes de treinar os modelos testados. O projeto foi dividido em duas etapas principais: a primeira foi a EDA, onde conseguimos entender os dados e analisar as possíveis causas do problema; a segunda foi o ajuste de hiperparâmetros, onde garantimos que o modelo alcançasse uma alta pontuação AUC tanto no conjunto de teste quanto no conjunto de validação, para resolver o problema que identificamos.
 
-o modelo com melhor desempenho foi: catboost com AUC-ROC: 0.9160921181462143
+O modelo com melhor desempenho foi: catboost com AUC-ROC: 0.9160921181462143
 
 
 ## 🚀 Como Usar
