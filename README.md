@@ -64,14 +64,12 @@ O modelo com melhor desempenho foi: catboost com AUC-ROC: 0.9160921181462143
  https://github.com/paulo-santos-ds/rotatividade_de_clientes
 ```
 
-2. Extrair o arquivo (imdb_reviews.zip)
-
-3. Instale as dependências
+2. Instale as dependências
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Execute o notebook principal
+3. Execute o notebook principal
 ```bash
 rotatividade_de_clientes.ipynb
 ```
