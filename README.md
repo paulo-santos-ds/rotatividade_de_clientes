@@ -1,6 +1,5 @@
 # Rotatividade de Clientes
 
-
 ## 📋 Descrição do Projeto
 
 A operadora de comunicações InternetGO está interessada em prever a rotatividade de seus clientes (churn). Se for identificado que um usuário está planejando trocar de operadora, a empresa poderá oferecer códigos promocionais e opções de planos especiais para evitar a perda desse cliente. Será desenvolvido um modelo capaz de identificar precocemente clientes com maior probabilidade de cancelamento, permitindo ações preventivas de retenção
