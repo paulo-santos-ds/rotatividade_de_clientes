@@ -32,10 +32,10 @@ Descrição dos Dados
 
 ## 📊 Os dados fornecidos para este projeto final incluem:
 
-- `contract.csv`: Informações contratuais
-- `personal.csv`: Dados pessoais dos clientes
-- `internet.csv`: Informações sobre serviços de Internet
-- `phone.csv`: Informações sobre serviços telefônicos
+- `contract.parquet`: Informações contratuais
+- `personal.parquet`: Dados pessoais dos clientes
+- `internet.parquet`: Informações sobre serviços de Internet
+- `phone.parquet`: Informações sobre serviços telefônicos
 
 Todas as informações estão relacionadas a partir de 1º de fevereiro de 2020, com o `customerID` como identificador único de cada cliente.
 
