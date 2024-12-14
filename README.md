@@ -8,6 +8,7 @@ A equipe de marketing da InternetGO coletou dados pessoais de seus clientes, inc
 
 ## 📊 Serviços da InternetGO
 
+
 A InternetGO oferece principalmente dois tipos de serviços:
 
 1. Telefonia fixa: O telefone pode ser conectado a várias linhas simultaneamente.
