@@ -7,6 +7,7 @@ A operadora de comunicações InternetGO está interessada em prever a rotativid
 
 A equipe de marketing da InternetGO coletou dados pessoais de seus clientes, incluindo informações sobre seus planos e contratos.
 
+
 ## 📊 Serviços da InternetGO
 
 A InternetGO oferece principalmente dois tipos de serviços:
